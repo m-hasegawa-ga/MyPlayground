@@ -1,0 +1,22 @@
+{
+  "xcodeVersion" : "Xcode 8.3.3\nBuild version 8E3004b",
+  "commitish" : "3.5.0",
+  "iOS" : [
+    {
+      "name" : "RxBlocking",
+      "md5" : "497e1d7f7c15843bc41906bc85fa5cc4"
+    },
+    {
+      "name" : "RxTest",
+      "md5" : "764dcb71a7665c0c3de71e15855baf1e"
+    },
+    {
+      "name" : "RxCocoa",
+      "md5" : "e64beb32ce45c78ba07e0bab5e64b682"
+    },
+    {
+      "name" : "RxSwift",
+      "md5" : "4d4499212fc5e02599b0fba53545c3eb"
+    }
+  ]
+}
