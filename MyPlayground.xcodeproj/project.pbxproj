@@ -47,6 +47,7 @@
 		C8CAF7851F151E0F0066CB59 /* RxBlocking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxBlocking.framework; path = Carthage/Build/iOS/RxBlocking.framework; sourceTree = "<group>"; };
 		C8CAF7861F151E0F0066CB59 /* RxCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxCocoa.framework; path = Carthage/Build/iOS/RxCocoa.framework; sourceTree = "<group>"; };
 		C8CAF7871F151E0F0066CB59 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/iOS/RxSwift.framework; sourceTree = "<group>"; };
+		C8CAF78F1F1524370066CB59 /* RxPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RxPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 		C8CAF7671F1514090066CB59 = {
 			isa = PBXGroup;
 			children = (
+				C8CAF78F1F1524370066CB59 /* RxPlayground.playground */,
 				C8CAF7851F151E0F0066CB59 /* RxBlocking.framework */,
 				C8CAF7861F151E0F0066CB59 /* RxCocoa.framework */,
 				C8CAF7871F151E0F0066CB59 /* RxSwift.framework */,
