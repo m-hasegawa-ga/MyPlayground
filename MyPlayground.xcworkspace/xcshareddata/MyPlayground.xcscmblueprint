@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6ED6E3ABA10EFCB1940C3F33461AE50FD1F51D52",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6ED6E3ABA10EFCB1940C3F33461AE50FD1F51D52" : 9223372036854775807,
+    "8B123162C394A0A0A138779108E4C59DD771865A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "60E6C9F0-D9B5-4E3E-B97E-AB5F8D0ECE46",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6ED6E3ABA10EFCB1940C3F33461AE50FD1F51D52" : "MyPlayground\/",
+    "8B123162C394A0A0A138779108E4C59DD771865A" : "MyPlayground\/Carthage\/Checkouts\/RxSwift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyPlayground",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyPlayground.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "marcy-github.com:masashi-hasegawa\/MyPlayground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6ED6E3ABA10EFCB1940C3F33461AE50FD1F51D52"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ReactiveX\/RxSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B123162C394A0A0A138779108E4C59DD771865A"
+    }
+  ]
+}
